@@ -51,4 +51,37 @@ This project demonstrates strong skills in **data cleaning, analysis, visualizat
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 How to Use
+1. Download the file **Adventure_sales_Report.xlsm**.  
+2. Open it in **Excel** (make sure to enable macros).  
+3. Use slicers & buttons to interact with the dashboard.  
+4. Explore sales performance and insights.  
+
+---
+
+## 📷 Dashboard Preview
+👉 *(Add screenshots here after uploading in `/images` folder, e.g.:)*  
+
+![Dashboard Preview](images/dashboard_preview.png)  
+
+---
+
+## 🔑 Key Learnings
+- Data cleaning and transformation in Excel.  
+- Designing professional, interactive dashboards.  
+- Using VBA to automate repetitive tasks.  
+- Presenting insights for business decision-making.  
+
+---
+
+## 📌 Author
+👤 **Your Name**  
+📧 Email: *[souravbera553@gmail.com]*  
+🔗 GitHub: [your GitHub profile link]  
+🔗 LinkedIn: [your LinkedIn profile link]  
+
+---
+
