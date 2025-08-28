@@ -62,11 +62,14 @@ This project demonstrates strong skills in **data cleaning, analysis, visualizat
 
 ---
 
-## 📷 Dashboard Preview
-👉 *(Add screenshots here after uploading in `/images` folder, e.g.:)*  
+🖼️ Dashboard Preview
+📌 Sales Overview
+![Dashboard Preview 1](<img width="1200" height="600" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9f7d64f5-51c5-45b4-8b73-8fb292062ac8" />
+.png) 
 
-![Dashboard Preview](images/dashboard_preview.png)  
-
+📌 Detailed Report
+![Dashboard Preview 2](<img width="1200" height="600" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/aaa2ab1c-4192-4f00-b6f1-9e01497d98aa" />
+.png)  
 ---
 
 ## 🔑 Key Learnings
