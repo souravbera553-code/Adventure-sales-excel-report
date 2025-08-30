@@ -83,8 +83,8 @@ This project demonstrates strong skills in **data cleaning, analysis, visualizat
 ## 📌 Author
 👤 **Your Name**  
 📧 Email: *[souravbera553@gmail.com]*  
-🔗 GitHub: [your GitHub profile link]  
-🔗 LinkedIn: [your LinkedIn profile link]  
+🔗 GitHub: [https://github.com/souravbera553-code]  
+🔗 LinkedIn: [www.linkedin.com/in/sourav-bera-2aa26722b]  
 
 ---
 
